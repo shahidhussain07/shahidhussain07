@@ -6,7 +6,7 @@
   <br>
 Connect with me: <br>
 <a href="https://www.twitter.com/shahidstwt"><img align="center" alt="ShahidHussain | Twitter" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https:www.linkedin.com/in/shahid-hussain-500a93214"><img align="center" alt="ShahidHussain | LinkedIn" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.linkedin.com/in/shahid-hussain-500a93214"><img align="center" alt="ShahidHussain | LinkedIn" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://www.instagram.com/ig_shahidhussain"><img align="center" alt="ShahidHussain | Instagram" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <br />
   <h2> GitHub Stats:</h2>
