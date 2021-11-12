@@ -3,6 +3,12 @@
 </h1>
 <br>
 <div style="display:flex;flex-direction:row;align-content:center;justify-content:center;" align="center">Welcome to my GitHub World :globe_with_meridians:<br>
+  <br>
+Connect with me: <br>
+<a href="twitter.com/shahidstwt"><img align="center" alt="Shahid Hussain | Twitter" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>   
+<img align="center" alt="codeSTACKr | LinkedIn" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="center" alt="codeSTACKr | Instagram" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<br />
   <h2> GitHub Stats:</h2>
   <img src="https://github-readme-stats.vercel.app/api/?username=shahidhussain07&count_private=true&theme=tokyonight&showicons=true">
  
