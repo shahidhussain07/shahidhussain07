@@ -3,6 +3,7 @@
 </h1>
 <br>
 <div style="display:flex;flex-direction:row;align-content:center;justify-content:center;" align="center">Welcome to my GitHub World :globe_with_meridians:<br>
+  <h2> GitHub Stats:</h2>
   <img src="https://github-readme-stats.vercel.app/api/?username=shahidhussain07&count_private=true&theme=tokyonight&showicons=true">
  
 </div>
