@@ -24,6 +24,6 @@ Connect with me on:
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahidhussain07&theme=react">
  <br>
-  <h2>:star2:Show some appreciation by starring some of repositories<img src="https://cdn-icons.flaticon.com/png/512/4955/premium/4955340.png?token=exp=1642658067~hmac=ac750d0fea4f7cdba46f316ef152376b" width="20px" alt="thankk you"></h2>
+  <h2>:arrow_right_hook:Show some appreciation by starring:star2: some of repositories<img src="https://cdn-icons.flaticon.com/png/512/4955/premium/4955340.png?token=exp=1642658067~hmac=ac750d0fea4f7cdba46f316ef152376b" width="20px" alt="thankk you"></h2>
  
 </div>
