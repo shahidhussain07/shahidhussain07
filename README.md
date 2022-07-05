@@ -12,7 +12,7 @@
   <img alt="ShahidHussain | LinkedIn" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
   <a href="https://www.instagram.com/ig_shahidhussain">
   <img alt="ShahidHussain | Instagram" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" /></a>
-  <a href="https://www.twitter.com/shahidstwt">
+  <a href="https://www.twitter.com/shahidHtwts">
   <img alt="ShahidHussain | Twitter" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
   <br>
   <h1>🛠 Languages and Tools:</h1><br>
