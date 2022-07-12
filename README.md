@@ -37,9 +37,6 @@
   <h2> GitHub Stats:</h2>
   <img src="https://github-readme-stats.vercel.app/api/?username=shahidhussain07&count_private=true&theme=react&show_icons=true">
   <br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=shahidhussain07.shahidhussain07">
-  <img src="https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/shahidhussain07">
-  <br>
   <br>
   <h2>:arrow_right_hook:Show some appreciation by starring:star2: some of repositories:pray:</h2>
  
