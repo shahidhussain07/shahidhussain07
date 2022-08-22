@@ -5,7 +5,7 @@
 
 <div style="display:flex;flex-direction:row;align-content:left;justify-content:left;" align="left">Thanks for visiting my Profile 💙:<br>
   <br>
-  <a>I'm <b>SHAHID HUSSAIN</b>, a second year student pursuing Bachelors in Computer Science & Engineering.</a><br>
+  <a>I'm <b>SHAHID HUSSAIN</b>, a pre-final year student pursuing Bachelors in Computer Science & Engineering.</a><br>
   <br>
   <h1>Connect with me on:</h1> 
   <a href="https://www.linkedin.com/in/shahid-hussain-500a93214">
