@@ -35,5 +35,5 @@
   <img src="https://img.shields.io/badge/Bootstrap%20-282C34?logo=bootstrap&logoColor=007ACC" alt="Bootstrap" title="Bootstrap" height="25" />
   &nbsp;
   <h2> GitHub Stats:</h2>
-  <img src="https://github-readme-stats.vercel.app/api/?username=shahidhussain07&count_private=true&theme=react&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahidhussain07&count_private=true&show_icons=true&include_all_commits=true">
 </div>
