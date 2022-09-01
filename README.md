@@ -4,7 +4,7 @@
 <br>
 
 <div style="display:flex;flex-direction:row;align-content:left;justify-content:left;" align="left"><h3><b>Glad to see you here</b>💙:</h3>
-  <h3>I'm <b>SHAHID HUSSAIN</b>, a pre-final year student pursuing Bachelors in Computer Science & Engineering.</h3><br>
+  <a>I'm <b>SHAHID HUSSAIN</b>, a pre-final year student pursuing Bachelors in Computer Science & Engineering.</a><br>
   <h1>:earth_asia: Connect with me on:</h1> 
   <a href="https://www.linkedin.com/in/shahid-hussain-500a93214">
   <img alt="ShahidHussain | LinkedIn" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
