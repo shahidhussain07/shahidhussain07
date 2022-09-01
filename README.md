@@ -7,7 +7,7 @@
   <br>
   <a>I'm <b>SHAHID HUSSAIN</b>, a pre-final year student pursuing Bachelors in Computer Science & Engineering.</a><br>
   <br>
-  <h1>:open_hands: Connect with me on:</h1> 
+  <h1>:earth_asia: Connect with me on:</h1> 
   <a href="https://www.linkedin.com/in/shahid-hussain-500a93214">
   <img alt="ShahidHussain | LinkedIn" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
   <a href="https://www.twitter.com/shahidHtwts">
