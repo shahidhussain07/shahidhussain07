@@ -3,7 +3,7 @@
 </h1>
 <br>
 
-<div style="display:flex;flex-direction:row;align-content:left;justify-content:left;" align="left">Thanks for visiting my Profile 💙:<br>
+<div style="display:flex;flex-direction:row;align-content:left;justify-content:left;" align="left">Glad to see you here💙:<br>
   <br>
   <a>I'm <b>SHAHID HUSSAIN</b>, a pre-final year student pursuing Bachelors in Computer Science & Engineering.</a><br>
   <br>
