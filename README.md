@@ -31,5 +31,5 @@
   <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
   &nbsp;
   <h1>:chart_with_upwards_trend: GitHub Stats:</h1>
-  <img src="https://github-readme-stats.vercel.app/api?username=shahidhussain07&count_private=true&show_icons=true&include_all_commits=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahidhussain07&show_icons=true&layout=compact"/>
 </div>
