@@ -4,7 +4,7 @@
 <br>
 
 <div style="display:flex;flex-direction:row;align-content:left;justify-content:left;" align="left"><h3><b>Glad to see you here</b>💙:</h3>
-  <a>I'm <b>SHAHID HUSSAIN</b>, a pre-final year student pursuing Bachelors in Computer Science & Engineering.</a><br>
+  <a>I'm <b>SHAHID HUSSAIN</b>, a final year student pursuing Bachelors in Computer Science & Engineering.</a><br>
   <h1>🛠 Languages and Tools:</h1><br>
   <img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=orange" alt="Java logo" title="Java" height="25" />
   &nbsp;
