@@ -9,7 +9,7 @@
   
   <h1>:chart_with_upwards_trend: GitHub Stats:</h1>
   <img src="https://github-readme-stats.vercel.app/api?username=shahidhussain07&show_icons=true&layout=compact"/>
-  <p>📫How to reach me: <a href="mail.google.com/hussainshahid9646">mail</a></p>
+  <p>📫How to reach me: <a href="mailto:hussainshahid9646@gmail.com">mail</a></p>
 </div>
 
 
