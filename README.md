@@ -11,7 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shahidhussain07&show_icons=true&layout=compact"/>
   <p> 📫How to reach me: </p>
   <p><a href="mailto:hussainshahid9646@gmail.com">Email</a></p>
-  <p> <a href="www.linkedin.com/in/shahid-hussain-500a93214">LinkedIn</a></p>
+  <p> <a href="https://www.linkedin.com/in/shahid-hussain-500a93214">LinkedIn</a></p>
 </div>
 
 
