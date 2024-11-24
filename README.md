@@ -5,7 +5,7 @@
 
 <div style="display:flex;flex-direction:row;align-content:left;justify-content:left;" align="center">
   <h3><b>Glad to see you here</b>💙:</h3>
-  <a>I'm <b>SHAHID HUSSAIN</b>, a final year student pursuing Bachelors in Computer Science & Engineering.</a><br>
+  <a>I'm <b>SHAHID HUSSAIN</b>, a  computer science graduate with a passion in science, technology and space</a><br>
   
   <h1>:chart_with_upwards_trend: GitHub Stats:</h1>
   <img src="https://github-readme-stats.vercel.app/api?username=shahidhussain07&show_icons=true&layout=compact"/>
